@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="title_activity_bali">BaliActivity</string>
+    <string name="title_activity_paris">ParisActivity</string>
+    <string name="title_activity_singapore">SingaporeActivity</string>
+    <string name="title_activity_main_activity.kt">MainActivity.kt</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="place_3">singapore</string>
+    <string name="place_2">paris</string>
+    <string name="place_1">bali</string>
+    <string name="description">about</string>
+    <string name="plan">idea</string>
+</resources>
